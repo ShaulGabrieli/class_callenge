@@ -1,0 +1,20 @@
+.success-stories {
+    height: 745px;
+    background-color: #004047;
+
+    .stories-heading {
+        margin: 148px 0 87px 0;
+        width: 932px;
+        height: 96px;
+        font-size: 48px;
+        line-height: 48px;
+        color: $clr2;
+        font-weight: 700;
+        font-family: Livvic-Bold;
+        text-align: center;
+
+        .heading-ending{
+            color: $clr6;
+        }
+    }
+}

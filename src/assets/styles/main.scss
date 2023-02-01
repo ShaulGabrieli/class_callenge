@@ -1,0 +1,26 @@
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+
+// Basics
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/base";
+@import "basics/links";
+
+// Views
+@import "views/home-page";
+
+
+// Components
+
+@import "cmps/home-page-hero.scss";
+@import "cmps/app-header.scss";
+@import "cmps/app-details";
+@import "cmps/details-preview";
+@import "cmps/success-stories";
+@import "cmps/success-stories-list.scss";
+@import "cmps/get-started";
+@import "cmps/app-footer";

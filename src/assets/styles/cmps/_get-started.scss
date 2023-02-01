@@ -1,0 +1,28 @@
+.get-started {
+    height: 200px;
+    background-color: $clr5;
+
+    .get-heading {
+        font-size: 48px;
+        line-height: 48px;
+        color: $clr4;
+        font-weight: 700;
+        font-family: Livvic-Bold;
+        margin: 88px 262px 0 80px;
+        display: inline-block;
+    }
+
+    .contact-us-btn {
+        width: 153px;
+        height: 48px;
+        border-radius: 24px;
+        background-color: $clr5;
+        border: 2px solid $clr4;
+        color: $clr4;
+        font-size: 18px;
+        line-height: 28px;
+        font-weight: 600;
+        font-family: Livvic-Bold;
+        margin-top: 88px;
+    }
+}

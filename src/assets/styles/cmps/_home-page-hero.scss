@@ -1,0 +1,27 @@
+.home-page-hero {
+    height: 464px;
+    .hero-header {
+        margin: 152px 137px 0 0;
+        font-size: 100px;
+        line-height: 100px;
+        color: $clr2;
+        font-weight: 700;
+        font-family: Livvic-Bold;
+        display: inline-block;
+    }
+
+    .talent-heading {
+        color: $clr5;
+    }
+
+    .hero-description {
+        width: 445px;
+        height: 112px;
+        font-size: 18px;
+        line-height: 28px;
+        color: $clr2;
+        font-weight: 600;
+        font-family: Livvic-Regular;
+        display: inline-block;
+    }
+}
