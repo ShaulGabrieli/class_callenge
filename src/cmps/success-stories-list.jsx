@@ -14,7 +14,7 @@ export function SuccessStoriesList() {
                 </p>
                 <h2 className='preview-heading'>Kady Baker</h2>
                 <p className='person-title'>Product Manager at Bookmark</p>
-                <div className='peron-img'>
+                <div className='person-img'>
                     <img src={require('../assets/img/images/avatar-kady.jpg')} />
                 </div>
             </div>
@@ -31,7 +31,7 @@ export function SuccessStoriesList() {
                 </p>
                 <h2 className='preview-heading'>Aiysha Reese</h2>
                 <p className='person-title'>Founder of Manage</p>
-                <div className='peron-img'>
+                <div className='person-img'>
                     <img src={require('../assets/img/images/avatar-aiysha.jpg')} />
                 </div>
             </div>
@@ -48,7 +48,7 @@ export function SuccessStoriesList() {
                 </p>
                 <h2 className='preview-heading'>Arthur Clarke</h2>
                 <p className='person-title'>Co-founder of MyPhysio</p>
-                <div className='peron-img'>
+                <div className='person-img'>
                     <img src={require('../assets/img/images/avatar-arthur.jpg')} />
                 </div>
             </div>

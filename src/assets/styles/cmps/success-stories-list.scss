@@ -8,6 +8,8 @@
         font-weight: 600;
         font-family: Livvic-Regular;
         text-align: center;
+        z-index: 2;
+
     }
     .preview-heading {
         width: 350px;
@@ -31,7 +33,7 @@
         text-align: center;
         margin: 0 0 30px 0;
     }
-    .peron-img {
+    .person-img {
         width: 62px;
         height: 62px;      
         border-radius: 50%;
@@ -44,7 +46,13 @@
         }
     }
 
-    .preview-quotes{
-        
+    .success-preview{
+        position: relative;
     }
+
+    .preview-quotes{
+        position: absolute;
+        top: -15px;
+    }
+    
 }

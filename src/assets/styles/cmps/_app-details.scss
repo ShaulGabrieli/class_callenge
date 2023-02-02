@@ -1,6 +1,7 @@
 .app-details {
     background-color: $clr4;
     height: 684px;
+    position: relative;
 
     .details-heading {
         width: 445px;
@@ -10,7 +11,20 @@
         color: $clr2;
         font-weight: 700;
         font-family: Livvic-Bold;
-        margin: 206px 173px 0 0;
+        margin: 0 173px 0 0;
         display: inline-block;
+    }
+
+    .design-pattern-details {
+        width: 50px;
+        height: 4px;
+        background-color: $clr5;
+        margin: 140px 0 62px 0;
+    }
+
+    .design-pattern-details-circle {
+        position: absolute;
+        right: 0;
+        bottom: 0;
     }
 }
